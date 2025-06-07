@@ -1,7 +1,11 @@
 # AProxy
 [![cloudflare worker](https://img.shields.io/badge/-cloudflare%20worker-brightgreen)](https://developers.cloudflare.com/workers/)
 
-线上项目：https://aproxy.isus.cc/
+#############################################
+### 线上项目：https://aproxy.isus.cc/
+#############################################
+### 使用方法：https://aproxy.isus.cc/?url=资源地址
+#############################################
 
 你这个鸟项目是干嘛用的？
 
